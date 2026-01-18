@@ -1,6 +1,6 @@
 # Hi there, I'm Kryzel 👋
 
-I'm a third-year Computer Science student at Pamantasan ng Lungsod ng Maynila and an aspiring fullstack developer actively seeking internship opportunities. I'm passionate about building modern web applications with great user experiences.
+I'm a third-year Computer Science student at Pamantasan ng Lungsod ng Maynila and an aspiring fullstack developer actively seeking internship opportunities.
 
 ## 🚀 Currently Working On
 
