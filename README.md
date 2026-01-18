@@ -37,7 +37,4 @@ When I'm not coding, you'll find me playing music, reading, or cafe-hopping. I l
 ## 📫 Let's Connect
 
 I'm always open to collaborating on projects or discussing tech. Feel free to reach out!
-
----
-
 ⭐️ Open to internship opportunities and collaborations
