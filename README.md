@@ -4,7 +4,7 @@ I'm a third-year Computer Science student at Pamantasan ng Lungsod ng Maynila an
 
 ## 🚀 Currently Working On
 
-**PoyBash Furniture E-Commerce Platform** - Leading a 5-member team to build a fullstack e-commerce system designed to handle 5,000–8,000 monthly orders. Built with React (Next.js), Tailwind CSS, and Supabase. Check it out in my repositories!
+**PoyBash Furniture E-Commerce Platform** - Building a fullstack e-commerce system designed to handle 5,000–8,000 monthly orders. Built with React (Next.js), Tailwind CSS, and Supabase.
 
 ## 💻 Tech Stack
 
