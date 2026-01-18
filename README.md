@@ -11,7 +11,6 @@ I'm a third-year Computer Science student at Pamantasan ng Lungsod ng Maynila an
 **Languages:** JavaScript, TypeScript, Java, HTML5, CSS3  
 **Frontend:** React, Next.js, Tailwind CSS  
 **Backend:** Supabase
-
 **Databases:** PostgreSQL, Oracle SQL
 **Tools:** Git, GitHub, VS Code, Figma, Canva  
 **Cloud Platforms:** Supabase, Vercel
