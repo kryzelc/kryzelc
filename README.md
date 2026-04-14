@@ -4,7 +4,7 @@ I'm a third-year Computer Science student at Pamantasan ng Lungsod ng Maynila an
 
 ## 🚀 Currently Working On
 
-**PoyBash Furniture Web Application* - Building a full stack web application designed to handle 5,000–8,000 monthly orders. Built with React (Next.js), Supabase, and Vercel.
+PoyBash Furniture Web Application - Building a full stack web application designed to handle 5,000–8,000 monthly orders. Built with React (Next.js), Supabase, and Vercel.
 
 ## 🎵 Beyond Code
 
